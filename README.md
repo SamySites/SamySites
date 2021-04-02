@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SamySites
 - 👀 I’m interested in opn source collaboration like odoo and wordpress...
-- 🌱 I’m currently learning data scienc
+- 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on wordpress themes and odoo modules
 - 📫 How to reach me samnarodo@gmail.com; +201001007454
 
